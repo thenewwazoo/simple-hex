@@ -6,6 +6,4 @@ categories = ["no-std"]
 keywords = ["ascii", "hex"]
 license = "0BSD"
 repository = "https://github.com/thenewwazoo/simple-hex"
-
-
-[dependencies]
+description = "A simple ASCII hex-to-bytes-and-back library"
