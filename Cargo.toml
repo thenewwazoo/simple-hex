@@ -2,7 +2,6 @@
 name = "simple-hex"
 version = "0.1.0"
 authors = ["Brandon Matthews <bmatthews@zipcar.com>"]
-license = "0BSD"
 categories = ["no-std"]
 keywords = ["ascii", "hex"]
 license = "0BSD"
